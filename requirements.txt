@@ -1,6 +1,5 @@
 numpy
 pandas
-time
 matplotlib
 seaborn
 random
