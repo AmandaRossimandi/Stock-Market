@@ -3,7 +3,6 @@ pandas
 matplotlib
 seaborn
 argparse
-types
 pandas_datareader
 sys
 warnings
