@@ -4,10 +4,8 @@ matplotlib
 seaborn
 argparse
 pandas_datareader
-warnings
 tensorflow
 sklearn
 datetime
 tqdm 
-os 
 yfinance
