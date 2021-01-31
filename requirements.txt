@@ -4,7 +4,6 @@ matplotlib
 seaborn
 argparse
 pandas_datareader
-sys
 warnings
 tensorflow
 sklearn
