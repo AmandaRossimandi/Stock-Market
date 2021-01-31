@@ -8,4 +8,5 @@ tensorflow
 sklearn
 datetime
 tqdm 
+lxm==4.5.1
 yfinance
